@@ -14,6 +14,6 @@ The following tools have been used to do the graphics, audio and gameplay which 
 - Bfxr (Sound Effects)
 - Otomata (Music)
 
-#Strategies
+# Strategies
 Multiple strategies have been developed by players and myself after the event and are available in the Strategies.txt file found in the repository.
 
