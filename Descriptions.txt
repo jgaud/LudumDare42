@@ -1,0 +1,73 @@
+Factory
+A simple factory, which increases the gold per minute produced by the population at the cost of some pollution.
+Cost: 
+
+Farm
+A modest farm, which decreases the rate at which food goes down, but needs an amount of pollution less than 200.
+Cost:
+
+Hydroponic Farm
+An indoor farm, which is more expensive than a traditional farm, but can be placed regardless of pollution.
+Cost:
+
+Research Center
+The research center is an expensive building, but is the only way to gather valuable research points.
+Cost:
+
+
+86 slots
+3m23 - no farm
+0.000005
+
+8 policies
+
+Policy 1 - Less revenue, less people per second
+Add 1 from moneymultiplier, 
+
+Score 
+1169
+2489
+
+TUTORIAL
+This is your main management screen,
+on the top right corner you can see your amount of food available,pollution, people, money and research points.
+
+Food will go down as time goes by, so make sure to build farms to slow down the effect and make sure you don't run out.
+
+If there's too much pollution, certain building can't be build.
+
+The amount of population increases over time, the more people,
+the more food they consume.
+
+Your research point and money are used to build buildings and pass policies.
+
+Finally, all the stats will contribute to your end score
+if you reach the end.
+
+Click anywhere to continue...
+
+
+
+
+This is the continent screen, you can select different buildings on the right, and place them on an available space.
+
+Factories are producing more money at the cost of some pollution per minute.
+
+Farms are producing food for the population, but can't be placed if the amount of pollution is above 200.
+
+Hydroponic Farms are more expensive than farms but can be placed regardless of the amount of pollution.
+
+Research Centers are expensive buildings that produce research points over time.
+
+If you run out of place, you can always use the bulldozing tool at the top of the screen,
+but make sure you use it with caution as you won't receive any money back!
+
+
+
+Finally, you can implement different policies by clicking the policies button on the buttom left of teh screen.
+Limiting the amount of children and ration are toggleable, but not the other ones.
+
+Your goal is to search for a new habitable planet without running out of food and without killing everyone.
+Be aware that searching for a new planet takes 30 seconds and prevent you to build anything while doing so.
+
+Click anywhere to begin your journey!
